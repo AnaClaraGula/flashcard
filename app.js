@@ -14,3 +14,4 @@ function criaCartao(categoria, pergunta, resposta) {
     </div>
     </div>
     `
+    }
