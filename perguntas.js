@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Física',
+    'Quanto tempo a luz do Sol demora para chegar à Terra?',
+    'A luz do Sol leva aproximadamente 8 minutos e 20 segundos para chegar à Terra.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Em que período da pré-história o fogo foi descoberto?',
+    'O fogo foi descoberto e controlado durante o período do Paleolítico,'
 )
 
 criaCartao(
